@@ -33,9 +33,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elgarzeynalov&show_icons=true&theme=radical" alt="Elgar's GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elgarzeynalov&theme=radical" alt="Elgar's GitHub Streak" />
