@@ -35,10 +35,4 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elgarzeynalov&theme=radical" alt="Elgar's GitHub Streak" />
-</p>
-
----
-
 <h4 align="center">“Security is not a product, but a process.”</h4>
