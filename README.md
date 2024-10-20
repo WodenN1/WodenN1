@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Elgar Zeynalov</h1>
+<h1 align="center"> I'm Elgar Zeynalov</h1>
 <h3 align="center">Cybersecurity Specialist | Mathematics & Computer Science Student</h3>
 
 ---
@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Get in Touch:
-- Email: [elgarzeynalov@example.com](mailto:elgarzeynalov@example.com)
+- Email: [elgarzeynalov@example.com](mailto:elgarzeynalov@gmail.com)
 - LinkedIn: [linkedin.com/in/elgarzeynalov](https://www.linkedin.com/in/elgarzeynalov)
 - GitHub: [github.com/elgarzeynalov](https://github.com/elgarzeynalov)
 
