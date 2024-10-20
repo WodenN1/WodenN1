@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Get in Touch:
-- Email: [elgarzeynalov@example.com](mailto:elgarzeynalov@gmail.com)
+- Email: [elgarzeynalov@gmail.com](mailto:elgarzeynalov@gmail.com)
 - LinkedIn: [linkedin.com/in/elgarzeynalov](https://www.linkedin.com/in/elgarzeynalov)
 - GitHub: [github.com/elgarzeynalov](https://github.com/elgarzeynalov)
 
