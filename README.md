@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Elgar Zeynalov</h1>
+<h1 align="center">  Elgar Zeynalov</h1>
 <h3 align="center">Cybersecurity Specialist | Mathematics & Computer Science Student</h3>
 
 ---
